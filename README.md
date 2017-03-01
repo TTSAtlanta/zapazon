@@ -4,12 +4,6 @@ GimmeMoney is a sample eCommerce application developed in the TTS Immersion Clas
 
 This application is configured using MySQL, therefore you need MySQL installed and running to use it.
 
-```sh
-$ bundle install
-$ rails db:setup
-$ rails db:migrate
-```
-
 ### Tech
 
 GimmeMoney uses the following gems
